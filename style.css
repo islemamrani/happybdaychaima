@@ -30,9 +30,10 @@ body {
 }
 
 .f9ra {
-    position: static;
+    position: absolute;
     font-size: larger;
     text-align: center;
+    top: 500px;
 }
 
 .ofc:hover {
