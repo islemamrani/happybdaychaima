@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(255, 231, 235);
+    font-family: "Poppins", sans-serif;
+}
+
+.name {
+    color: rgb(248, 130, 150);
+}
+
+.happy-bday {
+    text-align: center;
+    border: 2px solid pink;
+}
+
+.pedo {
+    text-align: center;
+    text-decoration: underline pink;
+}
+
+.hello-kitty {
+    position: absolute;
+    top: 200px;
+}
+
+.hello-kitty:hover {
+    transform: scaleX(-1);
+}
+
+.f9ra {
+    position: absolute;
+    font-size: larger;
+    text-align: left;
+    left: 225px;
+    top: 225px;
+}
+
+.ofc:hover {
+    color: red;
+    text-transform: uppercase;
+}
+
+.his {
+    text-align: center;
+    position: relative;
+    text-decoration: overline;
+    top: 320px;
+}
+
+.f9ra2 {
+    position: relative;
+    text-align: center;
+    top: 340px;
+    font-size: larger;
+    border: 2px solid pink;
+}
+
+.tilay {
+    text-align: center;
+    position: relative;
+    text-decoration: overline;
+    top: 380px;
+}
+
+.f9ra3 {
+    position: relative;
+    text-align: center;
+    top: 410px;
+    font-size: larger;
+    border: 2px solid pink;
+}
+
+.titdwy {
+    text-align: center;
+    position: relative;
+    text-decoration: overline;
+    top: 460px;
+}
+
+.f9ra4 {
+    position: relative;
+    text-align: center;
+    top: 490px;
+    font-size: larger;
+    border: 2px solid pink;
+}
+
+.m {
+    color: red;
+    text-decoration:underline;
+    font-style: italic;
+}
+
+.sry {
+    position: relative;
+    text-align: center;
+    top: 500px;
+    font-size: larger;
+}
+
+.vocal1 {
+    position: relative;
+    text-align: center;
+    top: 520px;
+    font-size: larger;
+}
+
+.vocal2 {
+    position: relative;
+    text-align: center;
+    top: 530px;
+    font-size: larger;
+}
+
+.finally {
+    position: relative;
+    text-align: center;
+    top: 550px;
+    font-size: larger;
+    border: 2px solid pink;
+}
+
+.song {
+    position: relative;
+    text-align: center;
+    top: 550px;
+    font-size: larger;
+    border: 2px solid red;
+    border-radius: 500px;
+}
