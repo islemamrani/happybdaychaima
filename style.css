@@ -20,8 +20,9 @@ body {
 }
 
 .hello-kitty {
-    position: absolute;
+    position: static;
     top: 200px;
+    text-align: center;
 }
 
 .hello-kitty:hover {
@@ -29,11 +30,9 @@ body {
 }
 
 .f9ra {
-    position: absolute;
+    position: static;
     font-size: larger;
-    text-align: left;
-    left: 225px;
-    top: 225px;
+    text-align: center;
 }
 
 .ofc:hover {
